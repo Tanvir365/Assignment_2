@@ -1,0 +1,40 @@
+body {margin-top: 70px;}
+
+.wrapper{width: 1200px;
+          margin: auto;
+          overflow: hidden;}
+
+.one{width: 33.33%;
+float: left;
+margin-bottom: 15px;
+padding:0 5px;
+box-sizing: border-box;}
+
+.blue{height: 100px;
+background-color: skyblue;
+padding: 15px;
+box-shadow: 5px 5px 10px blue;}
+
+.two{width: 100%;
+float: left;
+margin-bottom: 20px;
+padding:0 5px;
+box-sizing: border-box;}
+
+.three{width: 50%;
+float: left;
+margin-bottom: 20px;
+padding:0 5px;
+box-sizing: border-box;}
+
+.four{width: 60%;
+float: left;
+margin-bottom: 15px;
+padding:0 5px;
+box-sizing: border-box;}
+
+.five{width: 20%;
+float: left;
+margin-bottom: 15px;
+padding:0 5px;
+box-sizing: border-box;}
